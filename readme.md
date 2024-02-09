@@ -1,4 +1,4 @@
-# ![Alt text](/readme/banner.jpg)
+# Level 2.1 - Note Taking App
 
 ## Table of Contents
 
