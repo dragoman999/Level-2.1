@@ -1,2 +1,6 @@
-//TODO: Define a note model class
-class NoteModel {}
+class NoteModel {
+  String? title;
+  String? context;
+  NoteModel({this.title, this.context});
+  
+}
